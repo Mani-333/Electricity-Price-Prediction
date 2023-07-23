@@ -49,11 +49,11 @@ So your task here is to use this data to train a machine learning model to predi
 # Tools and Libraries Used
 ## We have used Python 3 to its following packages:
 
--Pandas
--Matplotlib
--Seaborn
--Sklearn
--pycountry
+# -Pandas
+# -Matplotlib
+# -Seaborn
+# -Sklearn
+# -pycountry
 # Projecr Demo vedio
 
 
